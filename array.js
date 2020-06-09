@@ -1,6 +1,6 @@
 var tabla = [
-	{ equipo: 'América', puntos: 15},
-	{ equipo: 'Chivas', puntos: 15},
+	{ equipo: 'Colibries', puntos: 40},
+	{ equipo: 'Lagartos', puntos: 40},
 	{ equipo: 'Cruz Azul', puntos: 16},
 	{ equipo: 'Pumas', puntos: 18},
 	{ equipo: 'Coyotes', puntos: 10},
