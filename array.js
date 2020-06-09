@@ -3,8 +3,8 @@ var tabla = [
 	{ equipo: 'Chivas', puntos: 15},
 	{ equipo: 'Cruz Azul', puntos: 16},
 	{ equipo: 'Pumas', puntos: 18},
-	{ equipo: 'Jaguares', puntos: 11},
-	{ equipo: 'Morelia', puntos: 9}
+	{ equipo: 'Coyotes', puntos: 10},
+	{ equipo: 'Tecos', puntos: 23}
 ];
 /*
 	Probando la carga de mis eventos
